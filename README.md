@@ -3,7 +3,7 @@
 - I’m currently learning python!, soon discord.py
 - Where & How to reach me?:
 
-Add my discord: c4;astronomic#2200 
+Add my discord: c4;astronomic#0653
 
 <!---
 astronomic99/astronomic99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
